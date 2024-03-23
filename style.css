@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: cursive;
+    list-style: none;
+    background-color: lightcyan;
+}
+
+.container{
+    margin: 0 auto;
+    width: 450px;
+    text-align: center;
+}
+
+.title{
+    border: 1px solid lightgreen;
+    color: green;
+    padding: 10px;
+    background-color: skyblue;
+    border-radius: 45%;
+    margin: 10px;
+}
+
+.form{
+    padding: 10px;
+}
+
+.form__input{
+    width: 350px;
+    height: 30px;
+}
+
+.btn{
+    height: 30px;
+    padding: 5px;
+    background-color: lightgreen;
+}
+
+.btn:hover{
+    background-color: green;
+    color: #fff;
+}
+
